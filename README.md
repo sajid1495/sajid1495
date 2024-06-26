@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SaJiD.</h1>
-<h3 align="center">A passionate Competitive Programmer from Bangladesh.</h3>
+<h3 align="center">A passionate CS Undergrad Student from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **Advance Topics of CP.**
 
