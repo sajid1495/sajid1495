@@ -69,4 +69,4 @@
  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1495&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1495&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&card_width=650)](https://git.io/streak-stats)
