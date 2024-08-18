@@ -61,6 +61,9 @@
   </a> 
 </p>
 
+### My Github Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=dark" alt="sajid1495" />
+
 <h3 align="left">Overview:</h3>
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
