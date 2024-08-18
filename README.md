@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **m.sajid1495@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sajid1495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid1495" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100034180031055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.sajid1495" height="30" width="40" /></a>
@@ -61,7 +61,7 @@
   </a> 
 </p>
 
-### My Github Stats
+### My Github Stats:
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=dark" alt="sajid1495" />
 
 <h3 align="left">Overview:</h3>
