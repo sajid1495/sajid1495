@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm SaJiD.</h1>
-<h3 align="center">A passionate CS Undergrad Student from Bangladesh.</h3>
+<h3 align="center" style="color:pink">A passionate CS Undergrad Student from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **Advance Topics of CP.**
+<div align="center">
 
-- 👨‍💻 All of my details are available at [https://portfolioofsajid.netlify.app/](https://portfolioofsajid.netlify.app/)
+🌱 I’m currently learning **Advance Topics of CP.**
 
-- 📫 You can reach me at **m.sajid1495@gmail.com**
+👨‍💻 All of my details are available at [https://portfolioofsajid.netlify.app/](https://portfolioofsajid.netlify.app/)
+  
+📫 You can reach me at **m.sajid1495@gmail.com**
+  
+</div>
 
-<h3 align="left">Connect With Me:</h3>
-<p align="left">
+<div align="center">
+  
+## Connect With Me
+<p>
 <a href="https://linkedin.com/in/sajid1495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid1495" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100034180031055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.sajid1495" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sajid_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajid_96" height="30" width="40" /></a>
@@ -18,8 +24,8 @@
 <a href="https://www.hackerearth.com/@m.sajid1495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@m.sajid1495" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+## 🔥 Languages, Tools & Abilities 🔥
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -61,12 +67,14 @@
   </a> 
 </p>
 
-<h3 align="left">Overview:</h3>
+## ⚡ Statistics ⚡
 
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1495&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/sajid1495/github-readme-stats)
 
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
+ <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1495&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&card_width=650)](https://git.io/streak-stats)
+
+</div>
