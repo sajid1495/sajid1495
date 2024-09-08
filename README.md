@@ -3,17 +3,19 @@
 
 <div align="center">
 
-🌱 I’m currently learning **Advance Topics of CP.**
+I’m currently learning **Advance Topics of CP**
 
-👨‍💻 All of my details are available at [https://portfolioofsajid.netlify.app/](https://portfolioofsajid.netlify.app/)
-  
-📫 You can reach me at **m.sajid1495@gmail.com**
+I've always been a person who if something fascinates me then I'd find out how to do it, so programming has been a perfect fit for me. That's why I love programming in all aspects.Also, I love reading books and listening to music.  
   
 </div>
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sajid1495)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=link)](https://portfolioofsajid.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:m.sajid1495@gmail.com)
   
-## Connect With Me
+## Social Links
 <p>
 <a href="https://linkedin.com/in/sajid1495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid1495" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100034180031055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.sajid1495" height="30" width="40" /></a>
