@@ -78,6 +78,6 @@ I've always been a person who if something fascinates me then I'd find out how t
  <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sajid1495)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 </div>
