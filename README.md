@@ -3,9 +3,9 @@
 
 <div align="center">
 
-I’m currently learning **Advance Topics of CP**
+I’m currently learning **Advanced Topics of DSA**
 
-I've always been a person who if something fascinates me then I'd find out how to do it, so programming has been a perfect fit for me. That's why I love programming in all aspects. Also, I love reading books and listening to music.  
+I've always been a person who, if something fascinates me, then I'd find out how to do it, so programming has been a perfect fit for me. That's why I love programming in all aspects. Also, I love reading books and listening to music.  
   
 </div>
 
