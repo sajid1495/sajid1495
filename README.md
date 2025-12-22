@@ -80,4 +80,17 @@ I've always been a person who, if something fascinates me, then I'd find out how
 <!--  CONTRIBUTION AND STREAK BLOCK -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sajid1495&theme=dark)](https://git.io/streak-stats)
 
+
+## Profile Overview
+
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid1495&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajid1495&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajid1495&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajid1495&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajid1495&theme=dracula&utcOffset=6)
+
+</div>
+
 </div>
