@@ -3,7 +3,7 @@
 
 <div align="center">
 
-I’m currently learning **Advanced Topics of DSA**
+I’m currently learning **Advanced Topics of DSA.**
 
 I've always been a person who, if something fascinates me, then I'd find out how to do it, so programming has been a perfect fit for me. That's why I love programming in all aspects. Also, I love reading books and listening to music.  
   
@@ -51,9 +51,6 @@ I've always been a person who, if something fascinates me, then I'd find out how
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;
@@ -69,16 +66,6 @@ I've always been a person who, if something fascinates me, then I'd find out how
 </p>
 
 
-## ⚡ Statistics ⚡
-
-<!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1495&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/sajid1495/github-readme-stats)
-
- <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
-
-<!--  CONTRIBUTION AND STREAK BLOCK -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sajid1495&theme=dark)](https://git.io/streak-stats)
-
 
 ## Profile Overview
 
@@ -91,5 +78,16 @@ I've always been a person who, if something fascinates me, then I'd find out how
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajid1495&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajid1495&theme=dracula&utcOffset=6)
 
 </div>
+
+## ⚡ Statistics ⚡
+
+<!--  TOP LANGUAGES STATISTICS -->
+ <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1495&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/sajid1495/github-readme-stats) --->
+
+ <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
+
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sajid1495&theme=dark)](https://git.io/streak-stats)
+
 
 </div>
