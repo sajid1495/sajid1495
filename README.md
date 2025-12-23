@@ -69,25 +69,45 @@ I've always been a person who, if something fascinates me, then I'd find out how
 
 ## Profile Overview
 
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid1495&theme=dracula)
+<details>
+  <summary><b>▶ Click to Expand</b></summary>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajid1495&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajid1495&theme=dracula)
+  <br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajid1495&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajid1495&theme=dracula&utcOffset=6)
+  <div align="center">
+    
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid1495&theme=dracula)
 
-</div>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajid1495&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajid1495&theme=dracula)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajid1495&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajid1495&theme=dracula&utcOffset=6)
+
+  </div>
+
+</details>
+
 
 ## ⚡ Statistics ⚡
 
-<!--  TOP LANGUAGES STATISTICS -->
- <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1495&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/sajid1495/github-readme-stats) --->
+<details>
+  <summary><b>▶ Click to Expand</b></summary>
 
- <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
+  <br/>
 
-<!--  CONTRIBUTION AND STREAK BLOCK -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sajid1495&theme=dark)](https://git.io/streak-stats)
+  <!--  TOP LANGUAGES STATISTICS -->
+  <!---
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1495&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/sajid1495/github-readme-stats)
+  --->
+
+  <!--  GENERAL STAT -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
+
+  <!--  CONTRIBUTION AND STREAK BLOCK -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=sajid1495&theme=dark)](https://git.io/streak-stats)
+
+</details>
 
 
 </div>
