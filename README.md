@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm SaJiD.</h1>
-<h3 align="center" style="color:pink">A passionate CS Undergrad Student from Bangladesh.</h3>
+<h3 align="center" style="color:pink">A passionate CS Undergrad Student from Department of CSE, RUET.</h3>
 
 <div align="center">
 
-I’m currently learning **Advanced Topics of DSA.**
+I’m currently learning **ML, CV and Advanced DSA with Python.**
 
-I've always been a person who, if something fascinates me, then I'd find out how to do it, so programming has been a perfect fit for me. That's why I love programming in all aspects. Also, I love reading books and listening to music.  
+I am an aspiring software engineer who is passionate about exploring new areas of computer science and staying up to date with the latest industry trends. I aim to build a strong and supportive community of software engineers and contribute positively to the growth of the tech industry.
+ 
   
 </div>
 
