@@ -3,7 +3,7 @@
 
 <div align="center">
 
-I’m currently learning **ML, CV and Advanced DSA with Python.**
+I’m currently learning **ML, CV and DSA with Python.**
 
 I am an aspiring software engineer who is passionate about exploring new areas of computer science and staying up to date with the latest industry trends. I aim to build a strong and supportive community of software engineers and contribute positively to the growth of the tech industry.
  
