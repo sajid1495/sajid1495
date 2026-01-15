@@ -17,26 +17,22 @@ I’m currently learning **ML, CV and DSA with Python.**
 ## Social Links
 <p>
 <a href="https://linkedin.com/in/sajid1495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid1495" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://www.leetcode.com/sajid_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajid_96" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/sajid_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajid_96" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://www.codechef.com/users/sajid1495" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sajid1495" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100034180031055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.sajid1495" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/sajid1495" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sajid1495" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/sajid_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajid_96" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/m_sajid1495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_sajid1495" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🔥 Languages, Tools & Abilities 🔥
 <p align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
