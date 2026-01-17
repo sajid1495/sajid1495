@@ -14,7 +14,7 @@ I’m currently learning **ML, CV and DSA with Python.**
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=link)](https://portfolioofsajid.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:m.sajid1495@gmail.com)
   
-## Social Links
+## 🔗 Social Links 🔗
 <p>
 <a href="https://linkedin.com/in/sajid1495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid1495" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://www.leetcode.com/sajid_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajid_96" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
@@ -62,7 +62,7 @@ I’m currently learning **ML, CV and DSA with Python.**
 
 
 
-## Profile Overview
+## ⚡ Profile Overview & Statistics ⚡
 
 <details>
   <summary><b>▶ Click to Expand</b></summary>
@@ -84,9 +84,9 @@ I’m currently learning **ML, CV and DSA with Python.**
 </details>
 
 
-## ⚡ Statistics ⚡
+<!---##   
 
-<details>
+<!-- <details>
   <summary><b>▶ Click to Expand</b></summary>
 
   <br/>
@@ -96,13 +96,13 @@ I’m currently learning **ML, CV and DSA with Python.**
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1495&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/sajid1495/github-readme-stats)
   --->
 
-  <!--  GENERAL STAT -->
+  <!--  GENERAL STAT 
   <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
 
-  <!--  CONTRIBUTION AND STREAK BLOCK -->
+  <!--  CONTRIBUTION AND STREAK BLOCK 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=sajid1495&theme=dark)](https://git.io/streak-stats)
 
-</details>
+</details> -->
 
 
 </div>
