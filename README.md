@@ -11,7 +11,9 @@ I’m currently learning **ML, CV, and DSA with Python.**
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sajidruetcse21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=link)](https://sajidruetcse21.netlify.app/)
+<a href="https://sajidruetcse21.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=link" />
+</a>
 [![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:m.sajid1495@gmail.com)
   
 ## 🔗 Social Links 🔗
