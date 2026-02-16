@@ -12,15 +12,15 @@ I’m currently learning **ML, CV, and DSA with Python.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sajidruetcse21)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=link)](https://sajidruetcse21.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:m.sajid1495@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:m.sajidruetcse21@gmail.com)
   
 ## 🔗 Social Links 🔗
 <p>
-<a href="https://linkedin.com/in/sajidruetcse21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid1495" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/sajidruetcse21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajidruetcse21" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://www.leetcode.com/sajid_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajid_96" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/sajid_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajid_96" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
- <a href="https://www.codechef.com/users/sajid1495" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sajid1495" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/sajid.ruetcse21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.sajid1495" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://www.codechef.com/users/sajidruetcse21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sajidruetcse21" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/sajid.ruetcse21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.sajidruetcse21" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🔥 Languages, Tools & Abilities 🔥
@@ -71,13 +71,13 @@ I’m currently learning **ML, CV, and DSA with Python.**
 
   <div align="center">
     
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid1495&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidruetcse21&theme=dracula)
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajid1495&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajid1495&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajidruetcse21&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajidruetcse21&theme=dracula)
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajid1495&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajid1495&theme=dracula&utcOffset=6)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajidruetcse21&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajidruetcse21&theme=dracula&utcOffset=6)
 
   </div>
 
@@ -93,14 +93,14 @@ I’m currently learning **ML, CV, and DSA with Python.**
 
   <!--  TOP LANGUAGES STATISTICS -->
   <!---
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1495&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/sajid1495/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidruetcse21&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/sajidruetcse21/github-readme-stats)
   --->
 
   <!--  GENERAL STAT 
-  <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajidruetcse21&show_icons=true&count_private=true&theme=nightowl" alt="sajidruetcse21" />
 
   <!--  CONTRIBUTION AND STREAK BLOCK 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=sajid1495&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=sajidruetcse21&theme=dark)](https://git.io/streak-stats)
 
 </details> -->
 
